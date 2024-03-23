@@ -11,4 +11,4 @@ Xiao Bai received the B.Eng. degree in computer science from Beihang University 
 
 He has authored or co-authored more than 200 papers in journals and refereed conferences. His current research interests include pattern recognition, 3D vision, and drone vision. He is the Associate Editor for journal of Pattern Recognition, ACM TOMM, Chinese Journal of Electronics and Area Editor for journal of Signal Processing, Displays.
 
-
+Currently, Bai Xiao leads a lab which is made up of 4 permanent staff and 30 graduate students. The lab has taken on national scientific research projects and research projects from various institutions.
