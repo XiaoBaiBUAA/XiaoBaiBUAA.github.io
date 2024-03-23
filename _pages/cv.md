@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computing Science, University of York, York, U.K, 2006
+* Ph.D. in Computing Science, University of York, York, U.K, 2006 (supervisor Prof. Edwin R. Hancock)
 * B.S. in Computer Science, Beihang University, Beijing, P.R. China, 2001
 
 Working experience
