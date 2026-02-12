@@ -169,9 +169,47 @@ Peer-reviewed Journals
 
 77.	Xiang Wang, Haonan Luo, Zihang Wang, Jin Zheng, Xiao Bai: Self-supervised multi-frame depth estimation with visual-inertial pose transformer and monocular guidance. Inf. Fusion:  102363 (2024)
 
+78. Xiao Bai, Pengcheng Zhang, Xiaohan Yu, Jin Zheng, Edwin R Hancock, Jun Zhou, Lin Gu: Learning from human attention for attribute-assisted visual recognition, TPAMI 2024.
+
+79. Jiahe Li, Jiawei Zhang, Xiao Bai, Jin Zheng, Jun Zhou, Lin Gu: Er-nerf++: Efficient region-aware neural radiance fields for high-fidelity talking portrait synthesis, Information Fusion 2024.
+
+80. Jiawei Zhang, Lei Huang, Xiao Bai, Jin Zheng, Lin Gu, Edwin Hancock: Exploring the usage of pre-trained features for stereo matching, IJCV 2024.
+
+81. Yuchen Wu, Pengcheng Zhang, Meiying Gu, Jin Zheng, Xiao Bai: Embodied navigation with multi-modal information: A survey from tasks to methodology, Information Fusion 2024.
+
+82. Huadong Lin, Xiaohan Yu, Pengcheng Zhang, Xiao Bai, Jin Zheng: Consistent prototype contrastive learning for weakly supervised person search, Journal of Visual Communication and Image Representation 2024.
+
+83. Meiying Gu, Jiahe Li, Yuchen Wu, Haonan Luo, Jin Zheng, Xiao Bai: 3D human avatar reconstruction with neural fields: A recent survey, Image and Vision Computing 2025.
+
+84. Pengcheng Zhang, Xiaohan Yu, Xiao Bai, Jin Zheng, Xin Ning, Edwin R Hancock: Fully Decoupled End-to-End Person Search: An Approach without Conflicting Objectives, IJCV 2025.
+
+85. Ruohuan Fang, Guansong Pang, Wenjun Miao, Xiao Bai, Jin Zheng, Xin Ning: Unsupervised recognition of unknown objects for open-world object detection, IEEE Transactions on Neural Networks and Learning Systems 2025.
+
+86. Jiawei Zhang, Jiahe Li, Lei Huang, Haonan Luo, Xiaohan Yu, Lin Gu, Jin Zheng, Xiao Bai: Investigating Synthetic-to-Real Transfer Robustness for Stereo Matching and Optical Flow Estimation, TPAMI 2025.
+
+87. Jiawei Zhang, Jiahe Li, Meiying Gu, Xiaohan Yu, Jin Zheng, Xiao Bai, Edwin Hancock: ALStereo: Active learning for stereo matching, Pattern Recognition 2025.
+
+88. Qi Liu, Xuemei Fu, Huang Zhang, Long Cheng, Jungong Han, Catarina Moreira, Xin Ning, Xiao Bai: Hybrideditdif: Text and exemplar guided image editing with diffusion models, Pattern Recognition 2025.
+
+89. Jielong Lin, Jiawei Zhang, Meiying Gu, Xiaohan Yu, Jun Zhou, Jin Zheng, Xiao Bai: RARFLoc: Robust absolute and relative fused visual localization for UAVs, Information Fusion 2025.
+
+90. Huadong Lin, Pengcheng Zhang, Xiaohan Yu, Xiao Bai, Chen Wang, Jin Zheng: Dual-label noise filtering for weakly supervised person search, Neurocomputing 2025.
+
+91. Botao Jiang, Haonan Luo, Zihang Wang, Jiahe Li, Hang Li, Jin Zheng, Xiao Bai: EIK-Nav: Boosting zero-shot object navigation with explicit and implicit knowledge, Pattern Recognition 2025.
+
+92. Yuchen Wu, Jiahe Li, Fabio Tosi, Matteo Poggi, Jin Zheng, Xiao Bai: FoundationSLAM: Unleashing the Power of Depth Foundation Models for End-to-End Dense Visual SLAM, AAAI 2026.
+
+
+
+
+
+
+
+
+
 Selected Conference Papers
 ======
-1.	Edwin R. Hancock, Richard C. Wilson, Xiao Bai. Graph Clustering using Symmetric Polynomials and Local Linear Embedding. BMVC 2003: 1-10.
+1.	Edwin R. Hancock, Richard C. Wilson, Xiao Bai. Graph Clustering using Symmetric Polynomials and Local Linear Embedding. BMVC 2003: 1-10.
 
 2.	Xiao Bai, Hang Yu, Edwin R. Hancock: Graph Matching using Spectral Embedding and Semidefinite Programming. BMVC 2004: 1-10
 
@@ -305,4 +343,39 @@ Selected Conference Papers
 
 67.	Jiawei Zhang, Jiahe Li, Lei Huang, Xiaohan Yu, Lin Gu, Jin Zheng, Xiao Bai: Robust Synthetic-to-Real Transfer for Stereo Matching, CVPR 2024.
 
-68. Jiawei Zhang, Jiahe Li, Lei Huang, Haonan Luo, Xiaohan Yu, Lin Gu, Jin Zheng, Xiao Bai: Investigating Synthetic-to-Real Transfer Robustness for Stereo Matching and Optical Flow Estimation, TPAMI 2025.
+68. Tianqi Li, Guansong Pang, Xiao Bai, Wenjun Miao, Jin Zheng: Learning transferable negative prompts for out-of-distribution detection, CVPR 2024.
+
+69. Jiahe Li, Jiawei Zhang, Xiao Bai, Jin Zheng, Xin Ning, Jun Zhou, Lin Gu: Talkinggaussian: Structure-persistent 3d talking head synthesis via gaussian splatting, ECCV 2024.
+
+70. Jiawei Zhang, Jiahe Li, Xiaohan Yu, Lei Huang, Lin Gu, Jin Zheng, Xiao Bai: Cor-gs: sparse-view 3d gaussian splatting via co-regularization, ECCV 2024.
+
+71. Tiantian Liu, Jiahe Li, Xiao Bai, Jin Zheng: Efficient Emotional Talking Head Generation via Dynamic 3D Gaussian Rendering, PRCV 2024.
+
+72. Pengcheng Zhang, Xiaohan Yu, Xiao Bai, Jin Zheng, Xin Ning: Prompting continual person search, ACM MM 2024.
+
+73. Wenjun Miao, Guansong Pang, Jin Zheng, Xiao Bai: Long-tailed out-of-distribution detection via normalized outlier distribution adaptation, NeurIPS 2024.
+
+74. Jiahe Li, Jiawei Zhang, Xiao Bai, Jin Zheng, Jun Zhou, Lin Gu: InsTaG: Learning Personalized 3D Talking Head from Few-Second Video, CVPR 2025.
+
+74. Pengcheng Zhang, Xiaohan Yu, Meiying Gu, Yuchen Wu, Yongsheng Gao, Xiao Bai: Revisiting continual ultra-fine-grained visual recognition with pre-trained models, IJCAI 2025.
+
+75. Wenjun Miao, Guansong Pang, Zihan Wang, Jin Zheng, Xiao Bai: Auxiliary Prompt Tuning of Vision-Language Models for Few-Shot Out-of-Distribution Detection, ICCV 2025.
+
+76. Pengcheng Zhang, Xiaohan Yu, Xiao Bai, Jin Zheng: Visual Perturbation for Text-Based Person Search, AAAI 2025.
+
+77. Jiahe Li, Jiawei Zhang, Youmin Zhang, Xiao Bai, Jin Zheng, Xiaohan Yu, Lin Gu: Geosvr: Taming sparse voxels for geometrically accurate surface reconstruction, NeurIPS 2025.
+
+78. Jiawei Zhang, Youmin Zhang, Fabio Tosi, Meiying Gu, Jiahe Li, Xiaohan Yu, Jin Zheng, Xiao Bai, Matteo Poggi: Eve3D: Elevating Vision Models for Enhanced 3D Surface Reconstruction via Gaussian Splatting, NeurIPS 2025.
+
+79. Qifei Wang, Pengcheng Zhang, Xiaohan Yu, Xiao Bai, Yongsheng Gao: View-aware Decomposition and Unification for Fast Ground-to-Aerial Person Search, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025.
+
+80. Zihan Wang, Guansong Pang, Wenjun Miao, Jin Zheng, Xiao Bai: MTAttack: Multi-Target Backdoor Attacks against Large Vision-Language Models, AAAI 2026.
+
+81. Meiying Gu, Jiawei Zhang, Jiahe Li, Xiaohan Yu, Haonan Luo, Jin Zheng, Xiao Bai: SparseSurf: Sparse-View 3D Gaussian Splatting for Surface Reconstruction, AAAI 2026.
+
+
+
+
+
+
+
