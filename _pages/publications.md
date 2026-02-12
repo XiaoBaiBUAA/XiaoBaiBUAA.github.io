@@ -197,7 +197,7 @@ Peer-reviewed Journals
 
 91. Botao Jiang, Haonan Luo, Zihang Wang, Jiahe Li, Hang Li, Jin Zheng, Xiao Bai: EIK-Nav: Boosting zero-shot object navigation with explicit and implicit knowledge, Pattern Recognition 2025.
 
-92. Yuchen Wu, Jiahe Li, Fabio Tosi, Matteo Poggi, Jin Zheng, Xiao Bai: FoundationSLAM: Unleashing the Power of Depth Foundation Models for End-to-End Dense Visual SLAM, AAAI 2026.
+92. Jiahe Li, Jiawei Zhang, Xiaohan Yu, Xiao Bai, Jin Zheng, Xin Ning, and Lin Gu: DNGaussian++: Improving Sparse-View Gaussian Radiance Fields with Depth Normalization, TPAMI 2026.
 
 
 
@@ -373,7 +373,7 @@ Selected Conference Papers
 
 81. Meiying Gu, Jiawei Zhang, Jiahe Li, Xiaohan Yu, Haonan Luo, Jin Zheng, Xiao Bai: SparseSurf: Sparse-View 3D Gaussian Splatting for Surface Reconstruction, AAAI 2026.
 
-
+82. Yuchen Wu, Jiahe Li, Fabio Tosi, Matteo Poggi, Jin Zheng, Xiao Bai: FoundationSLAM: Unleashing the Power of Depth Foundation Models for End-to-End Dense Visual SLAM, AAAI 2026.
 
 
 
