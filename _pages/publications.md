@@ -304,3 +304,5 @@ Selected Conference Papers
 66.	Jiahe Li, Jiawei Zhang, Xiao Bai, Jin Zheng, Xin Ning, Jun Zhou, Lin Gu: DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization. CVPR 2024.
 
 67.	Jiawei Zhang, Jiahe Li, Lei Huang, Xiaohan Yu, Lin Gu, Jin Zheng, Xiao Bai: Robust Synthetic-to-Real Transfer for Stereo Matching, CVPR 2024.
+
+68. Jiawei Zhang, Jiahe Li, Lei Huang, Haonan Luo, Xiaohan Yu, Lin Gu, Jin Zheng, Xiao Bai: Investigating Synthetic-to-Real Transfer Robustness for Stereo Matching and Optical Flow Estimation, TPAMI 2025.
