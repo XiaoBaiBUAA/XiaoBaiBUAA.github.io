@@ -30,6 +30,8 @@ Working experience
   
 Awards
 ======
+* 2023: Pattern Recognition Distinction Prize: Hyper-sausage coverage function neuron model and learning algorithm for image classification
+* 2023: Best Paper, The International Conference on Digital Image Computing: Techniques and Applications (DICTA)
 * 2023: Best Student Paper, 2023 The International Conference on Digital Image Computing: Techniques and Applications
 * 2019: Best Paper, 2019 International Conference on Image Graphics
 * 2016: National Outstanding Scientist, The China Association for Science and Technology (CAST)
@@ -38,6 +40,8 @@ Awards
 
 Professional Services
 ======
+* Program Chair, International Conference on Pattern Analysis and Machine Intelligence (ICPAMI) 2025
+* Workshop Chair: Asian Conference on Pattern Recognition (ACPR) 2025
 * Program Chair, Structural, Syntactic, and Statistical Pattern Recognition - Joint IAPR International Workshop, S+SSPR 2022, Quebec, Canada, 2022 (S+SSPR 2022)
 * General Chair, Structural, Syntactic, and Statistical Pattern Recognition - Joint IAPR International Workshop, S+SSPR 2018, Beijing, China, 2018 (S+SSPR 2018)
 * Sponsorships and Exhibits Co-Chair, IEEE International Conference on Systems, Man, and Cybernetics, 2014 (IEEE SMC 2014)
