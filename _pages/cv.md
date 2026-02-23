@@ -40,6 +40,7 @@ Awards
 
 Professional Services
 ======
+* Area Chair for British Machine Vision Conference (BMVC), 2020—2025
 * Program Chair, International Conference on Pattern Analysis and Machine Intelligence (ICPAMI) 2025
 * Workshop Chair: Asian Conference on Pattern Recognition (ACPR) 2025
 * Program Chair, Structural, Syntactic, and Statistical Pattern Recognition - Joint IAPR International Workshop, S+SSPR 2022, Quebec, Canada, 2022 (S+SSPR 2022)
@@ -47,17 +48,19 @@ Professional Services
 * Sponsorships and Exhibits Co-Chair, IEEE International Conference on Systems, Man, and Cybernetics, 2014 (IEEE SMC 2014)
 * Sponsorship Chair, IEEE International Conference on Multimedia and Expo, 2013 (ICME 2013)
 * General Co-chair, ICME Workshop on Human-Focused Communications in the 3D Continuum, 2012 (HFC3D 2012)
-* Programme Committees: AAAI 2021, AAAI 2018, AAAI 2017, BMVC 2021, BMVC 2021, BMVC 2018, BMVC 2017, BMVC 2016, ICPR 2020, ICPR 2016 and etc.
+* Programme Committees: AAAI 2021, AAAI 2018, AAAI 2017, BMVC 2021, BMVC 2018, BMVC 2017, BMVC 2016, ICPR 2020, ICPR 2016 and etc.
   
 Editorial Board & Service
 ======
-* Associate Editor for Pattern Recognition (Elsevier), 2017—
-* Area Editor for Signal Processing (Elsevier), 2024—
-* Area Editor for Diplays (Elsevier), 2021—
+* Associate Editor-in-Chief (AEiC) for Pattern Recognition (Elsevier) 2023-
+* Area Editor for Information Fusion 2024-
+* Area Editor for Signal Processing (Elsevier), 2023—
+* Area Editor for Diplays (Elsevier), 2019—
+* Vice Chair for International Association for Pattern Recognition (IAPR) TC2, 2020—
 * Editorial Board for Acta Electronica Sinica, 2022—
-* Vice Chair for IAPR TC2, 2020—
-* Area Chair for British Machine Vision Conference (BMVC), 2020—
 * Associate Editor for ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2022—
+
+<!-- * Associate Editor for Pattern Recognition (Elsevier), 2017— -->
   
 Guest Editor Services
 ======
