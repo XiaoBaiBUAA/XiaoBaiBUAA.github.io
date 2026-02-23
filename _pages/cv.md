@@ -52,11 +52,11 @@ Professional Services
   
 Editorial Board & Service
 ======
+* Vice Chair for International Association for Pattern Recognition (IAPR) TC2, 2020—
 * Associate Editor-in-Chief (AEiC) for Pattern Recognition (Elsevier) 2023-
 * Area Editor for Information Fusion 2024-
 * Area Editor for Signal Processing (Elsevier), 2023—
 * Area Editor for Diplays (Elsevier), 2019—
-* Vice Chair for International Association for Pattern Recognition (IAPR) TC2, 2020—
 * Editorial Board for Acta Electronica Sinica, 2022—
 * Associate Editor for ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2022—
 
